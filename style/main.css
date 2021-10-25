@@ -175,7 +175,8 @@ section.menu li {
 
 section.menu h4 {
     letter-spacing: 5px;
-    margin-bottom: 2px;
+    margin: 0 2px;
+    
 }
 
 /* #endregion */
