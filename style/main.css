@@ -20,7 +20,7 @@ main section {
 
 section img {
     width: 100%;
-    height: 750px;
+    height: 500px;
     border-radius: 10px;
     opacity: 0.8;
 }
@@ -159,10 +159,14 @@ section.about .right div p {
 
 /* #endregion */
 
-/* #region menu */
+/* #region skills */
 
 section.menu ul {
     list-style-type: none;
+}
+
+li p {
+    margin: 0;
 }
 
 section.menu li {
