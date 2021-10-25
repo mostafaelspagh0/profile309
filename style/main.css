@@ -137,6 +137,7 @@ header {
     margin: 0;
     background-image: url("../images/hamburger.jpg");
     background-size: cover;
+    background-position: 50% 50%;
     height: 100vh;
 }
 
